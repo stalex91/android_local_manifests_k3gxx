@@ -12,6 +12,7 @@ for the Samsung Galaxy S5 SM-G900H (Exynos 5422).
 | hardware/samsung, hardware/samsung_slsi-cm/* | forks of LineageOS and exynos5420 |
 | build/make, frameworks/av, frameworks/base, hardware/interfaces, hardware/broadcom/wlan, vendor/lineage, packages/apps/{DeskClock,Settings,SetupWizard} | forks of LineageOS with the k3gxx changes on `lineage-16.0` |
 | external/stlport | fork of LineageOS: libstlport built from source for the Samsung RIL |
+| external/icu | fork of LineageOS: current English spelling of Kyiv in the time zone names |
 
 Based on the work of the [exynos5420](https://github.com/exynos5420) team
 (device tree, kernel, Exynos 5422 hardware) and of LineageOS.

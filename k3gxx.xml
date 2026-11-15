@@ -42,6 +42,9 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
 
+  <remove-project name="LineageOS/android_external_icu" />
+  <project path="external/icu" name="android_external_icu" remote="stalex91" groups="pdk" />
+
   <remove-project name="LineageOS/android_frameworks_av" />
   <project path="frameworks/av" name="android_frameworks_av" remote="stalex91" groups="pdk" />
 
