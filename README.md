@@ -14,6 +14,9 @@ for the Samsung Galaxy S5 SM-G900H (Exynos 5422).
 | external/stlport | fork of LineageOS: libstlport built from source for the Samsung RIL |
 | external/icu | fork of LineageOS: current English spelling of Kyiv in the time zone names |
 
+XDA thread (builds, support, bug reports):
+[LineageOS 16.0 for Samsung Galaxy S5 3G [k3gxx]](https://xdaforums.com/t/rom-unofficial-9-0-lineageos-16-0-for-samsung-galaxy-s5-3g-k3gxx.4809408/)
+
 Based on the work of the [exynos5420](https://github.com/exynos5420) team
 (device tree, kernel, Exynos 5422 hardware) and of LineageOS.
 
