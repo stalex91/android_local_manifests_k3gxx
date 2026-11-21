@@ -31,6 +31,9 @@
   <project path="external/stlport" name="android_external_stlport" remote="stalex91" />
 
   <!-- LineageOS projects with k3gxx changes -->
+  <remove-project name="LineageOS/android_bootable_recovery" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="stalex91" groups="pdk" />
+
   <remove-project name="LineageOS/android_build" />
   <project path="build/make" name="android_build" remote="stalex91" groups="pdk">
     <copyfile src="core/root.mk" dest="Makefile" />

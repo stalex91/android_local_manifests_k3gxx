@@ -10,7 +10,7 @@ for the Samsung Galaxy S5 SM-G900H (Exynos 5422).
 | device/samsung/k3gxx | [stalex91/android_device_samsung_k3gxx](https://github.com/stalex91/android_device_samsung_k3gxx) |
 | kernel/samsung/k3gxx | [stalex91/android_kernel_samsung_k3gxx](https://github.com/stalex91/android_kernel_samsung_k3gxx) (GPL-2.0) |
 | hardware/samsung, hardware/samsung_slsi-cm/* | forks of LineageOS and exynos5420 |
-| build/make, frameworks/av, frameworks/base, hardware/interfaces, hardware/broadcom/wlan, vendor/lineage, packages/apps/{DeskClock,Settings,SetupWizard,Trebuchet} | forks of LineageOS with the k3gxx changes on `lineage-16.0` |
+| build/make, bootable/recovery, frameworks/av, frameworks/base, hardware/interfaces, hardware/broadcom/wlan, vendor/lineage, packages/apps/{DeskClock,Settings,SetupWizard,Trebuchet} | forks of LineageOS with the k3gxx changes on `lineage-16.0` |
 | external/stlport | fork of LineageOS: libstlport built from source for the Samsung RIL |
 | external/icu | fork of LineageOS: current English spelling of Kyiv in the time zone names |
 
